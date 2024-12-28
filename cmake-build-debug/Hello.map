@@ -1,0 +1,534 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x00000000       0x80 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+ .text          0x00000000       0x14 CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+ .data          0x00000000        0x0 CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+ .text          0x00000000        0x0 CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .text.blink    0x00000000       0x3c CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .debug_info    0x00000000      0x2e8 CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .debug_abbrev  0x00000000       0xda CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .debug_loc     0x00000000       0x23 CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .debug_ranges  0x00000000       0x10 CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .debug_line    0x00000000      0x1cf CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .debug_str     0x00000000      0x2bb CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .debug_frame   0x00000000       0x20 CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .text.gpio_init
+                0x00000000        0x2 CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .debug_info    0x00000000       0x38 CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .debug_abbrev  0x00000000       0x2e CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .debug_ranges  0x00000000       0x10 CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .debug_line    0x00000000       0x66 CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .debug_str     0x00000000      0x139 CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .debug_frame   0x00000000       0x20 CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+ .text.usart_main
+                0x00000000        0x2 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+ .text.memset   0x00000000       0xa8 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf8 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00003000         xrw
+FLASH            0x08000000         0x00008000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+LOAD CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+LOAD CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+LOAD CMakeFiles/Hello.elf.dir/blinky/Src/blinky.c.obj
+LOAD CMakeFiles/Hello.elf.dir/gpio/Src/gpio.c.obj
+LOAD CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+END GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+                0x20003000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000       0xc0
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000       0xc0 CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+                0x08000000                g_pfnVectors
+                0x080000c0                . = ALIGN (0x4)
+
+.text           0x080000c0      0x2e8
+                0x080000c0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080000c0       0x48 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.text*)
+ .text.main     0x08000108       0x78 CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+                0x08000108                main
+ .text.NMI_Handler
+                0x08000180        0x2 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+                0x08000180                NMI_Handler
+ .text.HardFault_Handler
+                0x08000182        0x2 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+                0x08000182                HardFault_Handler
+ .text.SVC_Handler
+                0x08000184        0x2 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+                0x08000184                SVC_Handler
+ .text.PendSV_Handler
+                0x08000186        0x2 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+                0x08000186                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000188        0x2 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+                0x08000188                SysTick_Handler
+ .text.USART1_IRQHandler
+                0x0800018a        0x2 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+                0x0800018a                USART1_IRQHandler
+ .text.SystemInit
+                0x0800018c       0x10 CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+                0x0800018c                SystemInit
+ .text.Reset_Handler
+                0x0800019c       0x50 CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+                0x0800019c                Reset_Handler
+ .text.Default_Handler
+                0x080001ec        0x2 CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+                0x080001ec                TIM1_CC_IRQHandler
+                0x080001ec                I2C1_IRQHandler
+                0x080001ec                DMAMUX1_IRQHandler
+                0x080001ec                SPI1_IRQHandler
+                0x080001ec                EXTI2_3_IRQHandler
+                0x080001ec                ADC1_IRQHandler
+                0x080001ec                TIM17_IRQHandler
+                0x080001ec                RTC_IRQHandler
+                0x080001ec                TIM16_IRQHandler
+                0x080001ec                TIM3_IRQHandler
+                0x080001ec                EXTI4_15_IRQHandler
+                0x080001ec                RCC_IRQHandler
+                0x080001ec                DMA1_Channel1_IRQHandler
+                0x080001ec                Default_Handler
+                0x080001ec                TIM14_IRQHandler
+                0x080001ec                EXTI0_1_IRQHandler
+                0x080001ec                WWDG_IRQHandler
+                0x080001ec                DMA1_Channel2_3_IRQHandler
+                0x080001ec                USART2_IRQHandler
+                0x080001ec                FLASH_IRQHandler
+                0x080001ec                TIM1_BRK_UP_TRG_COM_IRQHandler
+ .text.usart_putc
+                0x080001ee        0xc CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+ .text.usart_puts
+                0x080001fa       0x18 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+ .text.usart_config
+                0x08000212       0x2c CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+                0x08000212                usart_config
+ .text.usart_write
+                0x0800023e        0x8 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+                0x0800023e                usart_write
+ *fill*         0x08000246        0x2 
+ .text.__libc_init_array
+                0x08000248       0x44 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+                0x08000248                __libc_init_array
+ .text.startup.register_fini
+                0x0800028c       0x18 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x080002a4       0x10 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+                0x080002a4                atexit
+ .text.__libc_fini_array
+                0x080002b4       0x28 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+                0x080002b4                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x080002dc        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+                0x080002dc                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x080002e0        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+                0x080002e0                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x080002e4       0xac c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)
+                0x080002e4                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x08000390        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000390        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08000390        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x08000390        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x08000390                _init
+ .init          0x08000394        0x8 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0800039c        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x0800039c                _fini
+ .fini          0x080003a0        0x8 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+                0x080003a8                . = ALIGN (0x4)
+                0x080003a8                _etext = .
+
+.vfp11_veneer   0x080003a8        0x0
+ .vfp11_veneer  0x080003a8        0x0 linker stubs
+
+.v4_bx          0x080003a8        0x0
+ .v4_bx         0x080003a8        0x0 linker stubs
+
+.iplt           0x080003a8        0x0
+ .iplt          0x080003a8        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.rodata         0x080003a8       0x18
+                0x080003a8                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.main.str1.4
+                0x080003a8       0x11 CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+ *fill*         0x080003b9        0x3 
+ .rodata._global_impure_ptr
+                0x080003bc        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+                0x080003bc                _global_impure_ptr
+                0x080003c0                . = ALIGN (0x4)
+
+.rel.dyn        0x080003c0        0x0
+ .rel.iplt      0x080003c0        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.ARM.extab      0x080003c0        0x0
+                0x080003c0                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x080003c0                . = ALIGN (0x4)
+
+.ARM            0x080003c0        0x0
+                0x080003c0                . = ALIGN (0x4)
+                0x080003c0                __exidx_start = .
+ *(.ARM.exidx*)
+                0x080003c0                __exidx_end = .
+                0x080003c0                . = ALIGN (0x4)
+
+.preinit_array  0x080003c0        0x0
+                0x080003c0                . = ALIGN (0x4)
+                0x080003c0                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x080003c0                PROVIDE (__preinit_array_end = .)
+                0x080003c0                . = ALIGN (0x4)
+
+.init_array     0x080003c0        0x8
+                0x080003c0                . = ALIGN (0x4)
+                0x080003c0                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x080003c0        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x080003c4        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x080003c8                PROVIDE (__init_array_end = .)
+                0x080003c8                . = ALIGN (0x4)
+
+.fini_array     0x080003c8        0x4
+                0x080003c8                . = ALIGN (0x4)
+                0x080003c8                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x080003c8        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x080003cc                PROVIDE (__fini_array_end = .)
+                0x080003cc                . = ALIGN (0x4)
+                0x080003cc                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x42c load address 0x080003cc
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.impure_data
+                0x20000000      0x428 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000428        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000428                __atexit_recursive_mutex
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x2000042c                . = ALIGN (0x4)
+                0x2000042c                _edata = .
+
+.igot.plt       0x2000042c        0x0 load address 0x080007f8
+ .igot.plt      0x2000042c        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x2000042c                . = ALIGN (0x4)
+
+.bss            0x2000042c       0x20 load address 0x080007f8
+                0x2000042c                _sbss = .
+                0x2000042c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000042c       0x1c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.__lock___atexit_recursive_mutex
+                0x20000448        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+                0x20000448                __lock___atexit_recursive_mutex
+ *(COMMON)
+                0x2000044c                . = ALIGN (0x4)
+ *fill*         0x20000449        0x3 
+                0x2000044c                _ebss = .
+                0x2000044c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x2000044c      0x604 load address 0x080007f8
+                0x20000450                . = ALIGN (0x8)
+ *fill*         0x2000044c        0x4 
+                [!provide]                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x20000650                . = (. + _Min_Heap_Size)
+ *fill*         0x20000450      0x200 
+                0x20000a50                . = (. + _Min_Stack_Size)
+ *fill*         0x20000650      0x400 
+                0x20000a50                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2c CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x00000076       0x2c CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+ .ARM.attributes
+                0x000000a2       0x2c CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+ .ARM.attributes
+                0x000000ce       0x22 CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+ .ARM.attributes
+                0x000000f0       0x2c CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+ .ARM.attributes
+                0x0000011c       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000148       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000174       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000001a0       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000001cc       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000001f8       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000224       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000250       0x1e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+OUTPUT(Hello.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+
+.debug_info     0x00000000      0x888
+ .debug_info    0x00000000      0x40c CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x0000040c       0x92 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+ .debug_info    0x0000049e      0x14b CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+ .debug_info    0x000005e9       0x22 CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+ .debug_info    0x0000060b      0x27d CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+
+.debug_abbrev   0x00000000      0x343
+ .debug_abbrev  0x00000000      0x108 CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x00000108       0x2e CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+ .debug_abbrev  0x00000136       0xb3 CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+ .debug_abbrev  0x000001e9       0x12 CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+ .debug_abbrev  0x000001fb      0x148 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+
+.debug_loc      0x00000000       0xeb
+ .debug_loc     0x00000000       0x23 CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+ .debug_loc     0x00000023       0xc8 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+
+.debug_aranges  0x00000000       0xf0
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x00000020       0x48 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+ .debug_aranges
+                0x00000068       0x20 CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+ .debug_aranges
+                0x00000088       0x28 CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+ .debug_aranges
+                0x000000b0       0x40 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+
+.debug_ranges   0x00000000       0xa8
+ .debug_ranges  0x00000000       0x10 CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x00000010       0x38 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+ .debug_ranges  0x00000048       0x10 CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+ .debug_ranges  0x00000058       0x20 CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+ .debug_ranges  0x00000078       0x30 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+
+.debug_line     0x00000000      0x796
+ .debug_line    0x00000000      0x234 CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00000234       0xf0 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+ .debug_line    0x00000324      0x181 CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+ .debug_line    0x000004a5       0x9e CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+ .debug_line    0x00000543      0x253 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+
+.debug_str      0x00000000      0x45c
+ .debug_str     0x00000000      0x2a3 CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+                                0x2ea (size before relaxing)
+ .debug_str     0x000002a3       0x97 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+                                0x192 (size before relaxing)
+ .debug_str     0x0000033a       0x70 CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+                                0x203 (size before relaxing)
+ .debug_str     0x000003aa       0x49 CMakeFiles/Hello.elf.dir/Core/Startup/startup.s.obj
+                                 0x7f (size before relaxing)
+ .debug_str     0x000003f3       0x69 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+                                0x238 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+
+.debug_frame    0x00000000      0x2f0
+ .debug_frame   0x00000000       0x2c CMakeFiles/Hello.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x0000002c       0x70 CMakeFiles/Hello.elf.dir/Core/Src/stm32c0xx_it.c.obj
+ .debug_frame   0x0000009c       0x20 CMakeFiles/Hello.elf.dir/Core/Src/system.c.obj
+ .debug_frame   0x000000bc       0x74 CMakeFiles/Hello.elf.dir/usart/Src/usart.c.obj
+ .debug_frame   0x00000130       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x0000015c       0x54 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000001b0       0x28 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x000001d8       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x00000204       0xb0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x000002b4       0x3c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)

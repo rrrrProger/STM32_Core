@@ -1,0 +1,484 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Hello.elf"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_link_options",
+			"add_compile_options",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 64,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 59,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 60,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 49,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 52,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu11 -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-mcpu=cortex-m0"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-mthumb"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-mthumb-interwork"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-fno-common"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-fmessage-length=0"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-Og"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-g"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/Roman/CLionProjects/Hellpr/Core/Inc"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/Roman/CLionProjects/Hellpr/blinky/Inc"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/Roman/CLionProjects/Hellpr/usart/Inc"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/Roman/CLionProjects/Hellpr/gpio/Inc"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				15,
+				16,
+				17,
+				20,
+				22,
+				24
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-mcpu=cortex-m0"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-mthumb"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-mthumb-interwork"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-fno-common"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-fmessage-length=0"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-x"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "assembler-with-cpp"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-Og"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-g"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/Roman/CLionProjects/Hellpr/Core/Inc"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/Roman/CLionProjects/Hellpr/blinky/Inc"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/Roman/CLionProjects/Hellpr/usart/Inc"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/Roman/CLionProjects/Hellpr/gpio/Inc"
+				}
+			],
+			"language" : "ASM",
+			"sourceIndexes" : 
+			[
+				18
+			]
+		}
+	],
+	"id" : "Hello.elf::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=C:/Users/Roman/CLionProjects/Hellpr/cmake-build-debug/Hello.map",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-mcpu=cortex-m0",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-mthumb",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-mthumb-interwork",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "C:/Users/Roman/CLionProjects/Hellpr/STM32C031C6TX_FLASH.ld",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Hello.elf",
+	"nameOnDisk" : "Hello.elf",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				19,
+				21,
+				23
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				15,
+				16,
+				17,
+				20,
+				22,
+				24
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				18,
+				25
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/cachel1_armv7.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/cmsis_armcc.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/cmsis_armclang.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/cmsis_armclang_ltm.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/cmsis_compiler.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/cmsis_gcc.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/cmsis_iccarm.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/cmsis_version.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/core_cm0plus.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/main.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/mpu_armv7.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/stm32c031xx.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/stm32c0xx.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/stm32c0xx_it.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/Inc/system_stm32c0xx.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Core/Src/main.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Core/Src/stm32c0xx_it.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Core/Src/system.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Core/Startup/startup.s",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "blinky/Inc/blinky.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "blinky/Src/blinky.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "gpio/Inc/gpio.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "gpio/Src/gpio.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "usart/Inc/usart.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "usart/Src/usart.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "STM32C031C6TX_FLASH.ld",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "EXECUTABLE"
+}
